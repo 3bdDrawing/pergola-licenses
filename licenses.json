@@ -4,5 +4,12 @@
     "max_devices": 2,
     "active": true,
     "devices": []
+  },
+
+  "PRG-1111-2222-3333": {
+    "customer": "Company B",
+    "max_devices": 5,
+    "active": true,
+    "devices": []
   }
 }
