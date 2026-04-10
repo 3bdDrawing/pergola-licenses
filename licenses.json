@@ -1,20 +1,8 @@
 {
   "PRG-AAAA-BBBB-0001": {
     "customer": "Test Client",
-    "max_devices": 3,
-    "active": true,
-    "devices": []
-  },
-  "PRG-1111-2222-3333": {
-    "customer": "Company B",
-    "max_devices": 5,
-    "active": true,
-    "devices": []
-  },
-  "PRG-5555-DDDD-3223": {
-    "customer": "Company C",
     "max_devices": 2,
     "active": true,
     "devices": []
-  
+  }
 }
