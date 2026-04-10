@@ -3,9 +3,13 @@
     "customer": "Test Client",
     "max_devices": 2,
     "active": true,
-    "devices": []
+    "devices": [
+      {
+        "pc": "c83fdb76d49a60f9",
+        "company": "ABC"
+      }
+    ]
   },
-
   "PRG-1111-2222-3333": {
     "customer": "Company B",
     "max_devices": 5,
