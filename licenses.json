@@ -1,0 +1,8 @@
+{
+  "PRG-AAAA-BBBB-0001": {
+    "customer": "Test Client",
+    "max_devices": 2,
+    "active": true,
+    "devices": []
+  }
+}
