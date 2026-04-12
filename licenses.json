@@ -3,11 +3,6 @@
     "customer": "Test Client",
     "max_devices": 2,
     "active": true,
-    "devices": [
-      {
-        "pc": "c83fdb76d49a60f8",
-        "company": "WER"
-      }
-    ]
+    "devices": []
   }
 }
