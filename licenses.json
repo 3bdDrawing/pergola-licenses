@@ -3,6 +3,11 @@
     "customer": "Test Client",
     "max_devices": 2,
     "active": true,
-    "devices": []
+    "devices": [
+      {
+        "pc": "f8535c45edf12eef",
+        "company": "AWES"
+      }
+    ]
   }
 }
