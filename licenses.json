@@ -2,14 +2,14 @@
   "PRG-AAAA-BBBB-0002": {
     "customer": "Test Client",
     "max_devices": 2,
-    "active": false,
+    "active": true,
     "devices": []
   }
 }
 
 "PRG-AAAA-BBBB-0005": {
   "type": "demo",
-  "active": false,
+  "active": true,
   "max_devices": 1,
   "demo_days": 1,
   "expiry": null,
@@ -18,7 +18,7 @@
 
 "PRG-AAAA-BBBB-0008": {
   "type": "paid",
-  "active": false,
+  "active": true,
   "max_devices": 1,
   "expiry": "2026-12-31",
   "devices": []
