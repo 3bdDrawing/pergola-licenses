@@ -1,13 +1,25 @@
 {
-  "PRG-AAAA-BBBB-0001": {
+  "PRG-AAAA-BBBB-0002": {
     "customer": "Test Client",
     "max_devices": 2,
     "active": false,
-    "devices": [
-      {
-        "pc": "f8535c45edf12eef",
-        "company": "AWES"
-      }
-    ]
+    "devices": []
   }
+}
+
+"PRG-AAAA-BBBB-0005": {
+  "type": "demo",
+  "active": true,
+  "max_devices": 1,
+  "demo_days": 1,
+  "expiry": null,
+  "devices": []
+}
+
+"PRG-AAAA-BBBB-0008": {
+  "type": "paid",
+  "active": true,
+  "max_devices": 1,
+  "expiry": "2026-12-31",
+  "devices": []
 }
