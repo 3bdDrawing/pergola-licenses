@@ -9,7 +9,7 @@
 
 "PRG-AAAA-BBBB-0005": {
   "type": "demo",
-  "active": true,
+  "active": false,
   "max_devices": 1,
   "demo_days": 1,
   "expiry": null,
@@ -18,7 +18,7 @@
 
 "PRG-AAAA-BBBB-0008": {
   "type": "paid",
-  "active": true,
+  "active": false,
   "max_devices": 1,
   "expiry": "2026-12-31",
   "devices": []
