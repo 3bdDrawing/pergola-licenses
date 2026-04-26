@@ -7,7 +7,6 @@
     "expiry": "2026-12-31",
     "devices": []
   },
-
   "PRG-AAAA-BBBB-0005": {
     "type": "demo",
     "active": true,
@@ -16,12 +15,18 @@
     "expiry": null,
     "devices": []
   },
-
   "PRG-AAAA-BBBB-0008": {
     "type": "paid",
     "active": true,
     "max_devices": 1,
     "expiry": "2026-12-31",
-    "devices": []
+    "devices": [
+      {
+        "pc": "f8535c45edf12eef",
+        "company": "WEEEEEEEEEE",
+        "activated_at": "2026-04-26",
+        "last_check": "2026-04-26"
+      }
+    ]
   }
 }
