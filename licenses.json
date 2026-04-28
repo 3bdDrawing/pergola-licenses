@@ -5,7 +5,14 @@
     "max_devices": 2,
     "active": true,
     "expiry": "2026-12-31",
-    "devices": []
+    "devices": [
+      {
+        "pc": "f8535c45edf12eef",
+        "company": "WEEEEEEEE",
+        "activated_at": "2026-04-28",
+        "last_check": "2026-04-28"
+      }
+    ]
   },
   "PRG-AAAA-BBBB-0005": {
     "type": "demo",
