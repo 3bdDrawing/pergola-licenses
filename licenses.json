@@ -19,8 +19,15 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 1,
-    "expiry": null,
-    "devices": []
+    "expiry": "2026-04-29",
+    "devices": [
+      {
+        "pc": "1c60035c661c4bbe",
+        "company": "WWWW",
+        "activated_at": "2026-04-28",
+        "last_check": "2026-04-28"
+      }
+    ]
   },
   "PRG-AAAA-BBBB-0008": {
     "type": "paid",
