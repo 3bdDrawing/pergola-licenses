@@ -24,7 +24,7 @@
   },
   "PRG-AAAA-BBBB-0008": {
     "type": "paid",
-    "active": false,
+    "active": true,
     "max_devices": 1,
     "expiry": "2026-12-31",
     "devices": [
