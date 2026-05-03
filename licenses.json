@@ -34,7 +34,7 @@
     "type": "demo",
     "active": true,
     "max_devices": 1,
-    "demo_days": 1,
+    "demo_days": 2,
     "expiry": null,
     "devices": []
 }
