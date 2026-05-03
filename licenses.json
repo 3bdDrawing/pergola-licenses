@@ -12,7 +12,7 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": "null",
+    "expiry": null,
     "devices": []
   },
   "VER-demo-BBHL-4891": {
@@ -20,7 +20,7 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": "null",
+    "expiry": null,
     "devices": []
   }
 }
