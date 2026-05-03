@@ -5,48 +5,22 @@
     "max_devices": 2,
     "active": true,
     "expiry": "2026-12-31",
-    "devices": [
-      {
-        "pc": "f8535c45edf12eef",
-        "company": "WEEEEEEEE",
-        "activated_at": "2026-04-28",
-        "last_check": "2026-04-28"
-      },
-      {
-        "pc": "1c60035c661c4bbe",
-        "company": "QWE",
-        "activated_at": "2026-04-30",
-        "last_check": "2026-05-03"
-      }
-    ]
+    "devices": []
   },
-  "PRG-AAAA-BBBB-0005": {
+  "VER-ARFT-HGT-1005": {
     "type": "demo",
     "active": true,
     "max_devices": 1,
-    "demo_days": 1,
-    "expiry": "2026-04-29",
-    "devices": [
-      {
-        "pc": "1c60035c661c4bbe",
-        "company": "WWWW",
-        "activated_at": "2026-04-28",
-        "last_check": "2026-04-28"
-      }
-    ]
+    "demo_days": 3,
+    "expiry": "2026-05-06",
+    "devices": []
   },
-  "PRG-AAAA-BBBB-0008": {
-    "type": "paid",
+  "VER-YHFE-BBHL-4891": {
+    "type": "demp",
     "active": true,
     "max_devices": 1,
-    "expiry": "2026-12-31",
-    "devices": [
-      {
-        "pc": "f8535c45edf12eef",
-        "company": "WRRRRRR",
-        "activated_at": "2026-04-26",
-        "last_check": "2026-04-26"
-      }
-    ]
+    "demo_days": 3,
+    "expiry": "2026-05-06",
+    "devices": []
   }
 }
