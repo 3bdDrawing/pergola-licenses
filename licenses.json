@@ -7,20 +7,20 @@
     "expiry": "2026-12-31",
     "devices": []
   },
-  "VER-ARFT-HGT-1005": {
+  "VER-demo-HBAT-1005": {
     "type": "demo",
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": "2026-05-06",
+    "expiry": "null",
     "devices": []
   },
-  "VER-YHFE-BBHL-4891": {
-    "type": "demp",
+  "VER-demo-BBHL-4891": {
+    "type": "demo",
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": "2026-05-06",
+    "expiry": "null",
     "devices": []
   }
 }
