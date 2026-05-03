@@ -7,7 +7,7 @@
     "expiry": "2026-12-31",
     "devices": []
   },
-  "VER-demo-HBAT-1005": {
+  "VER-DEMO-HBAT-1005": {
     "type": "demo",
     "active": true,
     "max_devices": 1,
@@ -15,7 +15,7 @@
     "expiry": null,
     "devices": []
   },
-  "VER-demo-BBHL-4891": {
+  "VER-DEMO-BBHL-4891": {
     "type": "demo",
     "active": true,
     "max_devices": 1,
