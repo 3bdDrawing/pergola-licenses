@@ -38,7 +38,7 @@
   },
   "VER-DEMO-TEST-001": {
     "type": "demo",
-    "active": false,
+    "active": true,
     "max_devices": 1,
     "demo_days": 1,
     "expiry": "2026-05-11",
