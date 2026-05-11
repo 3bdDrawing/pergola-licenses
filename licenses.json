@@ -40,8 +40,15 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": null,
-    "devices": []
+    "expiry": "2026-05-14",
+    "devices": [
+      {
+        "pc": "a99cc495b6a696b371788e03",
+        "company": "TEMSA VERANDA",
+        "activated_at": "2026-05-11",
+        "last_check": "2026-05-11"
+      }
+    ]
   },
   "VER-DEMO-TEST-001": {
     "type": "demo",
