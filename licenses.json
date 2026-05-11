@@ -25,8 +25,15 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": null,
-    "devices": []
+    "expiry": "2026-05-14",
+    "devices": [
+      {
+        "pc": "6ed1a8f6fb63a487b408187a",
+        "company": "bekir kaplan",
+        "activated_at": "2026-05-11",
+        "last_check": "2026-05-11"
+      }
+    ]
   },
   "VER-DEMO-BBHL-4891": {
     "type": "demo",
