@@ -55,7 +55,7 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 1,
-    "expiry": null,
+    "expiry": "2026-05-12",
     "devices": [
       {
         "pc": "bcc6cd2708cf55c56eb5f800",
