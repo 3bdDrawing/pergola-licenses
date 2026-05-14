@@ -25,7 +25,7 @@
     "active": true,
     "max_devices": 1,
     "demo_days": 3,
-    "expiry": "2026-05-14",
+    "expiry": "2026-05-18",
     "devices": [
       {
         "pc": "6ed1a8f6fb63a487b408187a",
