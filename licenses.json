@@ -7,6 +7,14 @@
     "expiry": "2026-12-31",
     "devices": []
   },
+  "PRG-AAAA-BBBB-0180": {
+    "type": "paid",
+    "customer": "Test Client",
+    "max_devices": 1,
+    "active": true,
+    "expiry": "2026-12-31",
+    "devices": []
+  },
   "VER-DEMO-HBAT-1005": {
     "type": "demo",
     "active": true,
