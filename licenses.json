@@ -5,20 +5,7 @@
     "max_devices": 2,
     "active": true,
     "expiry": "2026-12-31",
-    "devices": [
-      {
-        "pc": "1c60035c661c4bbe",
-        "company": "ABC",
-        "activated_at": "2026-05-03",
-        "last_check": "2026-05-08"
-      },
-      {
-        "pc": "a9c52af878bffeaac3e2b395",
-        "company": "XXX",
-        "activated_at": "2026-05-08",
-        "last_check": "2026-05-14"
-      }
-    ]
+    "devices": []
   },
   "VER-DEMO-HBAT-1005": {
     "type": "demo",
